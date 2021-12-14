@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: FEFAE0;
+}
+.navigation{
+    list-style-type: none;
+    float: right;
+}
+.navigation li{
+    display: inline-block;
+    font-size: 125%;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.navigation li a{
+    text-decoration: none;
+    color: #fefae0;
+}
+.navigation li a:hover{
+    color: #dda15e;
+}
+.navigation li a:active{
+    color: #bc6c25;
+}
+nav{
+    width: 100%;
+    height: 100px;
+    background-color: 606C38;
+    position: sticky;
+    top: 0;
+}
+.logo img{
+    height: 91px;
+    width: 150px;
+    float: left;
+    margin: 4px;
+}
+img.rounded-corners{
+    border-radius: 30px;
+}
+section{
+    height: 1200px;
+}
+footer{
+    height: 200px;
+    width: 100%;
+    background-color: #606C38;
+    padding-top: 50px;
+
+}
+.footer-links li{
+    list-style-type: none;
+    float: left;
+    clear: both;
+    margin-left: 100px;
+    text-align: center;
+    margin-top: 5px;
+}
+.Logo-links li{
+    list-style-type: none;
+    margin-left: 86%;
+    margin-right: 100px;
+    size: 6px;
+    text-align: center;
+    margin-top: 5px;
+}
+.main-footer{
+    font-size: 20px;
+    font-weight: 900;
+}
+.abovefooter{
+    margin-bottom: 0px;
+}
+footer a{
+    text-decoration: none;
+    color: #fefae0;
+}
+footer a:hover{
+    color: #dda15e;
+}
+footer a:active{
+    color: #bc6c25;
+}
+footer p{
+    text-align: center;
+}  

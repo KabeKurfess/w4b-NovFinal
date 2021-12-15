@@ -39,8 +39,15 @@ nav{
 img.rounded-corners{
     border-radius: 30px;
 }
-section{
+.Form{
     height: 1200px;
+}
+.email{
+    height: 300px;
+}
+.email h1{
+    text-align: center;
+    margin-top: 150px;
 }
 footer{
     height: 200px;

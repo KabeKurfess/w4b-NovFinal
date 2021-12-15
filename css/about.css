@@ -39,6 +39,76 @@ nav{
 img.rounded-corners{
     border-radius: 30px;
 }
+.Form-Page{
+    height: 750px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.electric{
+    float: left;
+    margin-right: 25px;
+}
+.electric-subheader{
+    padding-top: 75px;
+    font-size: 25px;
+    text-align: center;
+}
+.acoustic{
+    float: right;
+    margin-top: 165px;
+    margin-left: 25px;
+}
+.acoustic-subheader{
+    padding-top: 250px;
+    font-size: 25px;
+    text-align: center;
+}
+.instructors{
+    height: 1650px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.instructors h1{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 100px;
+    margin-top: 80px;
+
+}
+hr{
+    border: 2px solid black;
+}
+.Jimmy{
+    width: 420px;
+    height: 300px;
+    float: left;
+}
+.Jimmy-Subheading{
+    margin-left: 25px;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 60px;
+}
+.Ozzy{
+    float: right;
+    width: 420px;
+    height: 300px;
+    margin-top: 200px;
+}
+.Ozzy-Subheading{
+    font-size: 25px;
+    text-align: center;
+    margin-top: 250px;
+}
+.Group-Instructors{
+    width: 100%;
+    height: 600px;
+    margin-top: 30px;
+}
+.Group-Instructors-Subheading{
+    font-size: 25px;
+    text-align: center;
+}
 footer{
     height: 200px;
     width: 100%;
@@ -82,28 +152,4 @@ footer a:active{
 footer p{
     text-align: center;
 }   
-.Form-Page{
-    height: 1000px;
-    
-}
-.electric{
-    margin-left: 150px;
-    float: left;
-}
-.electric-subheader{
-    padding-top: 75px;
-    margin-left: 600px;
-    margin-right: 40%;
-    font-size: 25px;
-}
-.acoustic{
-    float: right;
-    margin-right: 150px;
-    margin-top: 165px;
-}
-.acoustic-subheader{
-    padding-top: 250px;
-    font-size: 25px;
-    margin-left: 800px;
-    margin-right: 585px;
-}
+
